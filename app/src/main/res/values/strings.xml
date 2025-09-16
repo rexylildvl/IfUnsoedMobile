@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">If Unsoed Mobile</string>
+    <string name="welcome_text">
+        Selamat Datang di Prodi Informatika, \nFakultas Teknik, \nUniversitas Jenderal Soedirman
+    </string>
+    <string name="inf_description">
+        Program Studi Informatika di Universitas Jenderal Soedirman (Unsoed) berdiri pada tahun 2008, berawal dari kebutuhan yang semakin mendesak akan tenaga ahli di bidang teknologi informasi dan komunikasi. Saat itu, perkembangan teknologi yang pesat di Indonesia dan dunia memerlukan adanya program pendidikan tinggi yang mampu mencetak lulusan dengan kompetensi tinggi di bidang informatika. \nPada tahun tersebut, Fakultas Sains dan Teknik (FST) Unsoed mengambil inisiatif untuk mendirikan Program Studi Informatika. Pembentukan program studi ini bertujuan untuk memenuhi tuntutan masyarakat dan industri yang membutuhkan tenaga profesional dalam bidang teknologi informasi. Kurikulum yang disusun dirancang untuk memberikan pendidikan berkualitas, menggabungkan aspek praktis dan teoritis dari informatika, seperti pemrograman, sistem informasi, jaringan komputer, dan kecerdasan buatan.
+    </string>
+    <string name="next">Next</string>
+</resources>
