@@ -30,3 +30,10 @@ Dibuat sebagai bagian dari praktikum *Pemrograman Mobile*.
 **Topik:** Penerapan Arsitektur MVVM dan Networking dengan Retrofit 
 ### Demo Aplikasi  
 <img src="assets/tugas3pertemuan4.gif" alt="Demo Pertemuan 4" width="200"/>
+
+---
+
+## 🎬 Pertemuan 5 
+**Topik:** Fragment
+### Demo Aplikasi  
+<img src="assets/tugas4pertemuan5.gif" alt="Demo Pertemuan 4" width="200"/>
