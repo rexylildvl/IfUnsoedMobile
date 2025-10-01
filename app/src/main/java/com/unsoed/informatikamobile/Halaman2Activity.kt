@@ -45,6 +45,10 @@ class Halaman2Activity : AppCompatActivity() {
             it.imgIcon.setImageResource(R.drawable.ic_phone)
             it.tvLayout.setText(R.string.telepon)
         }
+        binding.layoutBook.let {
+            it.imgIcon.setImageResource(R.drawable.ic_book)
+            it.tvLayout.setText(R.string.book)
+        }
     }
     private fun initListener() {
         binding.layoutLocation.root.setOnClickListener {
@@ -70,6 +74,10 @@ class Halaman2Activity : AppCompatActivity() {
             val intent = Intent(Intent.ACTION_DIAL).apply {
                 data = "tel:${getString(R.string.telepon)}".toUri()
             }
+            startActivity(intent)
+        }
+        binding.layoutBook.root.setOnClickListener {
+            val intent = Intent(this, DaftarBukuActivity::class.java)
             startActivity(intent)
         }
 
